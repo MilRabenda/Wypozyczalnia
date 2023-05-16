@@ -1,0 +1,3 @@
+2023-04-04 18:16:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "WYPOZYCZALNIA_INFO" not found (this database is empty); SQL statement:
+select wypozyczal0_.id as id1_0_0_, wypozyczal0_.model as model2_0_0_, wypozyczal0_.rok_produkcji as rok_prod3_0_0_ from wypozyczalnia_info wypozyczal0_ where wypozyczal0_.id=? [42104-214]
